@@ -1,11 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chadrack Mbuyi KALALA</h1>
 <h3 align="center">A passionate full-stack Software Engineer from South Africa - Capetown</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Tr4pSec/tr4psec.github.io/master/.pictures/Right_Side.gif”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadrackmbuyi01&label=Profile%20views&color=0e75b6&style=flat" alt="chadrackmbuyi01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chadrackmbuyi01" alt="chadrackmbuyi01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://x.com/chadrac_mbuyi" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/chadrac_mbuyi?logo=twitter&style=for-the-badge" alt="https://x.com/chadrac_mbuyi" /></a> </p>
 
